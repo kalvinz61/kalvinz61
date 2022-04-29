@@ -1,6 +1,6 @@
 ## Hi, I'm Kalvin.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-kalvinzhao-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kalvin-zhao/)](https://www.linkedin.com/in/kalvin-zhao/)
+[![LinkedIn Badge](https://img.shields.io/badge/-kalvin.zhao-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kalvin-zhao/)](https://www.linkedin.com/in/kalvin-zhao/)
 [![Gmail Badge](https://img.shields.io/badge/-kalvinz61@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&Link=mailto:kalvinz61@gmail.com)](mailto:kalvinz61@gmail.com)
 
 ### About Me
