@@ -28,7 +28,7 @@ I'm a graduate from Fullstack Academy's immersive bootcamp. I've had a knack for
         </a>
       </td>
     </tr>
-    <tr style="background-color: white">
+    <tr>
       <td>Frameworks</td>
       <td>
         <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
