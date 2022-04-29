@@ -34,7 +34,7 @@ I'm a graduate from Fullstack Academy's immersive bootcamp. I've had a knack for
         <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
         </a>
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer" background-color="white> 
             <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
         </a>
         <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
