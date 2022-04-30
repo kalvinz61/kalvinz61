@@ -23,7 +23,7 @@ At my core lies a need to dissect complex systems and understand how they work. 
             <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"  height="40"/> 
         </a>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 height="40"/>
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="40"/>
         </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="40"/>
@@ -34,13 +34,13 @@ At my core lies a need to dissect complex systems and understand how they work. 
       <td>Frameworks</td>
       <td>
         <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" width="40" height="40"/>
+            <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" height="40"/>
         </a>
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer" background-color="white"> 
-            <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" width="40" height="40"/>
+            <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" height="40"/>
         </a>
         <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactnative" width="40" height="40"/>
+            <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactnative" height="40"/>
         </a>
       </td>
     </tr>
