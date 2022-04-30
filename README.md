@@ -17,16 +17,16 @@ At my core lies a need to dissect complex systems and understand how they work. 
       <td>Languages</td>
       <td>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="auto" height="40"/>
+            <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="40"/>
         </a>
          <a href="https://dart.dev" target="_blank" rel="noreferrer">
             <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"  height="40"/> 
         </a>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="40" height="40"/>
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 height="40"/>
         </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="40" height="40"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="40"/>
         </a>
       </td>
     </tr>
@@ -48,13 +48,13 @@ At my core lies a need to dissect complex systems and understand how they work. 
         <td>Libraries</td>
         <td>
             <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="40" height="40"/>
+                <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" height="40"/>
             </a>
             <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-                <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" width="40" height="40"/>
+                <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" height="40"/>
             </a>
             <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-                <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=whit" alt="express" width="40" height="40"/>
+                <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=whit" alt="express" height="40"/>
             </a>
         </td>
     </tr>
@@ -62,7 +62,7 @@ At my core lies a need to dissect complex systems and understand how they work. 
       <td>Databases</td>
       <td>
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" width="40" height="40"/>
+            <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" height="40"/>
         </a>
       </td>
     </tr>
@@ -70,16 +70,16 @@ At my core lies a need to dissect complex systems and understand how they work. 
       <td>Technologies and Others</td>
       <td>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" width="40" height="40"/>
+            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" height="40"/>
         </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" width="40" height="40"/>
+            <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" height="40"/>
         </a>
         <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="babel" width="40" height="40"/>
+            <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="babel" height="40"/>
         </a>
         <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="webpack" width="40" height="40"/>
+            <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="webpack" height="40"/>
         </a>
       </td>
     </tr>
