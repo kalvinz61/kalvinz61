@@ -20,7 +20,7 @@ At my core lies a need to dissect complex systems and understand how they work. 
             <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="auto" height="40"/>
         </a>
          <a href="https://dart.dev" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" width="40" height="40"/> 
+            <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"  height="40"/> 
         </a>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="40" height="40"/>
