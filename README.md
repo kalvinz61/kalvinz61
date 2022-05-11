@@ -7,8 +7,7 @@
 
 As an aspiring software engineer and graduate of Fullstack Academy, I strive to utilize my talent and skills in order to learn, grow and equally contribute to a compassionate and dedicated team.
 
-At my core lies a need to dissect complex systems and understand how they work. I've led a successful career in the automotive industry for almost a decade, where it was made very clear that my hunger for knowledge would only continue to grow deeper. This naturally led me to the field of software engineering which I found to be the perfect mixture of creative problem solving and technical mastery. Since graduating from bootcamp in the summer of 2020, I've been honing my skills in hopes of affecting meaningful and collaborative change through the discipline of technology.
-
+At my core lies a need to dissect complex systems and understand how they work. I've led a successful career in the automotive industry for almost a decade, where it was made very clear that my hunger for knowledge would only continue to grow deeper. This naturally led me to the field of software engineering which I found to be the perfect mixture of creative problem solving and technical mastery.
 ### Skills
 
 <table>
